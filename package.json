@@ -2,7 +2,7 @@
     "name": "@mateoox600/m-color",
     "description": "Color lib",
     "authors": "Mateoox600",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "main": "./build/index.js",
     "scripts": {
         "build": "tsc",
@@ -17,5 +17,9 @@
         "eslint": "^8.14.0",
         "ts-node": "^10.7.0",
         "typescript": "^4.6.4"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/mateoox600/MColor.git"
     }
 }
