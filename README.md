@@ -10,7 +10,7 @@ Npm package for console coloring.
 ---
 ## Installation
 ```console
-npm install m-color
+npm install @mateoox600/m-color
 ```
  - Typescript is supported and types comes with the installation
 ---
